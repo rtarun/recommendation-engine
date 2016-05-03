@@ -1,2 +1,2 @@
 # recommendation-engine
-Recommendation Engine created using KNN Algorithm on Content Based Filtering approach.
+Recommendation Engine created for a travel portal using KNN Algorithm on Content Based Filtering approach.
