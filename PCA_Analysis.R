@@ -5,7 +5,7 @@
 ##3. Choose the top 
 
 ## Read the data and formatting
-setwd("/Users/tarunruchandani/Documents/IEORE4111/MyBhutan/0420")
+setwd("dir")
 dat = read.csv("MBPopulatedData_04262016.csv")[,2:10]
 
 ### Start of Analysis
